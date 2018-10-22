@@ -1,4 +1,4 @@
-## 42 Robotics Project led by Dan Gonchav
+## 42 Robotics Project
 
 ## RCool
 
@@ -41,3 +41,5 @@ The program will output url to access the website, or just go to http://YOUR-GOO
 #### Errors
 
 If you're getting errors, check if no other demos are running on the Google Vision Kit. Other programs block access to the camera. If car is not driving, check that it is on and you connected wires as they should be. If it's still not running, try restarting your Google Vision Kit, sometimes it doesn't detect pins.
+
+##### Main Collaborator: Sasha
