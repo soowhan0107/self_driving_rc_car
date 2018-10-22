@@ -1,3 +1,5 @@
+## 42 Robotics Project led by Dan Gonchav
+
 ## RCool
 
 RCool is a website for interaction with the RC car that is connected to Google Vision Kit. Using this tool you can see the camera output, control the RC car, record images of camera to the raspberry pi for future model training and run already trained model for self-driving.
